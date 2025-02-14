@@ -1,6 +1,7 @@
 websites:
-  - audiolibri.org
-  - example.com
+  - dobrev.net
+  - readmomentum.co
+  - blog.dobrev.net
 output_file: README.md
 max_workers: 2
 timeout: 30
