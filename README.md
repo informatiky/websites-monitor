@@ -110,10 +110,10 @@ For any issues or suggestions regarding this project, feel free to open an issue
 # Websites Monitor
 
 
-This report was automatically generated on 2026-05-23 06:28:35 UTC.
+This report was automatically generated on 2026-05-24 06:54:04 UTC.
 
 | Website | Domain breach | Domain Expiration | SSL Certificate | DNS Blacklists | DomainsBlacklists | HSTS | XSS Protection | Redirect chains | Pagespeed | Load Time | Rate Limiting | CDN | Brotli | Deprecated Libraries | Client Rendering | Mixed Content | Content-Type | i18n | FLoC | AMP | Robots.txt | Sitemap | Favicon | Alt Tags | Open Graph | Semantic Markup | Ad Tracking | WHOIS Privacy | Privacy Exposure |
 |---------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-dobrev.net | ⚪ | ⚪ | 🟢 (79 days left) | 🟢 | 🟢 | ⚪ | ⚪ | 🟢 | ⚪ | ⚪ | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | 🟢 | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ |
-readmomentum.co | ⚪ | ⚪ | 🟢 (88 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | ⚪ | 🟢 | 🔴 | 🟢 | 🟢 | 🟡 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 |
-blog.dobrev.net | ⚪ | ⚪ | 🟢 (79 days left) | 🟢 | 🟢 | ⚪ | ⚪ | 🟢 | ⚪ | ⚪ | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | 🔴 | 🔴 | 🔴 | ⚪ | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ |
+dobrev.net | ⚪ | ⚪ | 🟢 (78 days left) | 🟢 | 🟢 | ⚪ | ⚪ | 🟢 | 100 | ⚪ | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | 🟢 | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ |
+readmomentum.co | ⚪ | ⚪ | 🟢 (87 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 86 | 🟢 | 🔴 | 🟢 | 🟢 | 🟡 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 |
+blog.dobrev.net | ⚪ | ⚪ | 🟢 (78 days left) | 🟢 | 🟢 | ⚪ | ⚪ | 🟢 | ⚪ | ⚪ | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | 🔴 | 🔴 | 🔴 | ⚪ | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ |
